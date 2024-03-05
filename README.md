@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
 </p>
@@ -36,3 +37,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <!--END_SECTION:footer-->
 
+=======
+# shoes-reactnative-rocketseat
+shoes-reactnative-rocketseat
+>>>>>>> 3a9a81ba5337899d5df239df271cef4dd32dc0df
