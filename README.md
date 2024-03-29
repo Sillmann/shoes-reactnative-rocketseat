@@ -1,43 +1,20 @@
-<<<<<<< HEAD
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
-
-
 ## 💻 Projeto
-
-igniteshoesapp
+Ignite Shoes App
 
 ## 📝 Licença
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+App elaborado durante o curso: ROCKETSEAT REACT NATIVE
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+Objetivos principais:
+- Implementar o envio de mensagnes Push Notifications
+- Implementar Deep linking
 
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
-=======
-# shoes-reactnative-rocketseat
-shoes-reactnative-rocketseat
->>>>>>> 3a9a81ba5337899d5df239df271cef4dd32dc0df
+Conceitos e técnicas utilizadas:
+- Firebase Cloud Messaging
+- One Signal
+- Expo Dev Client
+- Push Notifications
+- Deep Linking
+- 
+![Screenshot_20240329-164510](https://github.com/Sillmann/shoes-reactnative-rocketseat/assets/58642347/131e65c7-53a2-4683-b4f3-4b7fb06cfe0f)
